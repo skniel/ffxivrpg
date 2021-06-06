@@ -1,0 +1,355 @@
+{"name":"background","type":"Item","sort":8000000,"flags":{},"parent":"z49XNyYPffF9Y4y6","sorting":"a","color":"","_id":"0XhwPYtiWFBFC2p5"}
+{"_id":"0Zvby8p0knzRy4C2","name":"Ul'dah","type":"Actor","sort":700000,"flags":{},"parent":"u9g7QkBDNgAEnrQF","sorting":"a","color":"#5c5757"}
+{"name":"Nível 8","type":"Item","sort":32100000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"0d2Mo13rGZRg4nPT"}
+{"name":"Combatente","type":"Item","sort":12000000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#a36105","_id":"0eXuSkNlihSgbjiq"}
+{"_id":"0htXTQzwpXVOHgKG","name":"Templates","type":"Actor","sort":0,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"0ifcU5CFHdfGA2aw","name":"Habilidades","type":"Item","sort":2800000,"flags":{},"parent":"z49XNyYPffF9Y4y6","sorting":"a","color":""}
+{"name":"Bestas","type":"Item","sort":21700000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"1LuDlLL4c3fYBvGo"}
+{"name":"Peculiaridades Raciais","type":"Item","sort":18200000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":"","_id":"1d2yO0y5g9knXXez"}
+{"name":"Pergaminhos","type":"Item","sort":25800000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"1kJGad4qPZhxh1ch"}
+{"name":"Atirador","type":"Item","sort":28900000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"1zQvOJW8vtPVQeUK"}
+{"name":"Tier 9","type":"Item","sort":34000000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"26R0V2pbkt2L1G5P"}
+{"_id":"2GSww6zgZFRy5apB","name":"Raças","type":"Item","sort":100000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#33570f"}
+{"name":"Chicotes","type":"Item","sort":20800000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"2HCCwtJLQ6EbZCLx"}
+{"_id":"2N3MO0fRr6MU0GA8","name":"Magia Negra","type":"Item","sort":1500000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#151414"}
+{"_id":"2UgWs291vXK3KTqb","name":"Forgekin","type":"Actor","sort":1600000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#311d02"}
+{"name":"Grau 2","type":"Item","sort":29600000,"flags":{},"parent":"3RmAoUTvSpsLsFMU","sorting":"a","color":"","_id":"2W8SRlXNNXwvW88C"}
+{"name":"Guerreiros","type":"Item","sort":11200000,"flags":{},"parent":"7lFeWjJjC8Tgn5ft","sorting":"a","color":"#b91313","_id":"3IKBlWliDh9WSHag"}
+{"name":"Beastkin","type":"Item","sort":23800000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"3K4lPXc9HhyX6OQ4"}
+{"_id":"3RmAoUTvSpsLsFMU","name":"Geomancia","type":"Item","sort":2800000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":""}
+{"_id":"3ZobMCFvNwIvnfMD","name":"background","type":"Item","sort":600000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"name":"Nível 1","type":"Item","sort":27200000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"3nXUjDF2Z1HkooH9"}
+{"_id":"3v173Uo2cV1cF0vN","name":"Paladino","type":"Item","sort":700000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Forgekin","type":"Item","sort":24700000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"4Bzief6q1sbME31W"}
+{"name":"Outras Tabelas","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"4IbJfMWrCGJXOtKN"}
+{"name":"geomancia","type":"Item","sort":13600000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":"","_id":"4LKbBsm9qCTS0mkK"}
+{"name":"Nível 3","type":"Item","sort":31000000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"4wPDyceMKJ3BYuWw"}
+{"_id":"4xkHSoKAWOX5INq3","name":"Armas","type":"Item","sort":100000,"flags":{},"parent":"wymBVIhRSM4QtwNe","sorting":"a","color":""}
+{"name":"Grupo","type":"Item","sort":8200000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"57ZncXaMJS46g9pD"}
+{"name":"Swallows","type":"Item","sort":20900000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"5DnA8jR0h8WPP7Sn"}
+{"name":"Coeurl","type":"Actor","sort":3100000,"flags":{},"parent":"ffYNqV8iqKcJzpnR","sorting":"a","color":"","_id":"5M0YLcUbvkYtFSmo"}
+{"_id":"5YMaONqTj1DN6zYj","name":"Encantamento de Lâmina","type":"Item","sort":1400000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#594d6f"}
+{"_id":"61BThAuD4R1sOY8A","name":"Acessórios de Ação","type":"Item","sort":600000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"name":"Itens de Batalha","type":"Item","sort":25400000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"68fmluCfqcOqCLhj"}
+{"name":"Isalbardianos","type":"Item","sort":18600000,"flags":{},"parent":"2GSww6zgZFRy5apB","sorting":"a","color":"","_id":"69xQ1R6zENRTZzuz"}
+{"_id":"6fFwIqTOhz48HaCG","name":"Red Enchant","type":"Item","sort":28600000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"name":"ESTATISTICAS","type":"Item","sort":300000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":"","_id":"6uzxilb8sql3ogpa"}
+{"_id":"7QrZIdnyPTuCk5RU","name":"Voidsent","type":"Actor","sort":2400000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#bf79d2"}
+{"name":"combate","type":"Item","sort":28500000,"flags":{},"parent":"57ZncXaMJS46g9pD","sorting":"a","color":"","_id":"7RjmShKVuPnRHEVa"}
+{"name":"Afinidades e resistências","type":"Item","sort":700000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":"","_id":"7Xn6lUiH0NXPtgJQ"}
+{"_id":"7fJbXkuCnTE1MEGo","name":"Vantagens","type":"Item","sort":-100000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":""}
+{"_id":"7lFeWjJjC8Tgn5ft","name":"JOBs","type":"Item","sort":200000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#1f07da"}
+{"name":"Nível 5","type":"Item","sort":31800000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"7pmAP1nu0Qe0F0t5"}
+{"name":"Ahriman","type":"Actor","sort":2500000,"flags":{},"parent":"7QrZIdnyPTuCk5RU","sorting":"a","color":"","_id":"81gtDhvmQwDT5vFb"}
+{"name":"Até 18 MP","type":"Item","sort":32300000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"84gkKttMpCoiZpBD"}
+{"_id":"8UPMAqqLoM7YGgC6","name":"Seedkin","type":"Actor","sort":1500000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#042007"}
+{"_id":"8f3E3QmTEZpC54Ed","name":"Destruidor","type":"Item","sort":11700000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#a11273"}
+{"name":"Inventário","type":"Item","sort":7600000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"8sWOrCyQd88ZZfZK"}
+{"_id":"90pUhM2undbFAId7","name":"Habilidades de Jobs","type":"Item","sort":700000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#76702e"}
+{"name":"Grevas","type":"Item","sort":19500000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":"","_id":"92vgnYcLkGdUbJZJ"}
+{"name":"Espadas Leves","type":"Item","sort":20100000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"9NsvxtuY83MvaK80"}
+{"name":"VDP","type":"Item","sort":3500000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":"","_id":"9OalGic0D04ijLXL"}
+{"_id":"AEKPFCds7Jnf2eTX","name":"saber","type":"Item","sort":300000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"_id":"AR99Uew1lEPxpr1m","name":"Subjobs","type":"Item","sort":300000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#136a96"}
+{"_id":"AVRijBHo1pMUvhsE","name":"Mediador","type":"Item","sort":1700000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"AgBnEnKmHaUNVfv6","name":"Bônus e Valores","type":"Item","sort":1200000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"_id":"Aldeak4scByVbczn","name":"Magia do Tempo","type":"Item","sort":1600000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#156033"}
+{"name":"Background","type":"Item","sort":7500000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"AlhZRx4Zr3o7DMsW"}
+{"name":"Impulsionadores de Estatísticas","type":"Item","sort":18900000,"flags":{},"parent":"LvwX3ezbtEcJrVYW","sorting":"a","color":"","_id":"Apf1xi2Pk1eZ7wY0"}
+{"name":"Bardo","type":"Item","sort":27700000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"BRUagu5S7qoxv1W5"}
+{"_id":"BSFbPFbifs3HtLWq","name":"Armaduras","type":"Item","sort":2200000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#c7c892"}
+{"_id":"Bu2rkf0fvyPGBkNU","name":"sociais","type":"Item","sort":800000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"name":"Machados","type":"Item","sort":20200000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"CUkr4ly36bpivMaF"}
+{"name":"Aurelia","type":"Actor","sort":2200000,"flags":{},"parent":"rwLtePcSOiwLaM94","sorting":"a","color":"","_id":"CWtkUqmGicrHl5x6"}
+{"_id":"CwjGbOMyYywcnWk8","name":"Magia Branca","type":"Item","sort":1700000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#808080"}
+{"name":"Katanas","type":"Item","sort":21000000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"DJk27z7qEbicEh01"}
+{"name":"Armadura","type":"Item","sort":30100000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":"","_id":"DKph7lH4ew80nW1H"}
+{"name":"Médico","type":"Item","sort":18700000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#064b0b","_id":"DTzbQIOb0gfRSI8e"}
+{"name":"Bombas","type":"Item","sort":25600000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"DUxMYQM6dNFMsrkH"}
+{"_id":"DXxhSP3eOfKBow8K","name":"Metais","type":"Item","sort":300000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"name":"Arqueiro","type":"Item","sort":22300000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"DYuwPfNzCln03lMp"}
+{"name":"Morcegos","type":"Actor","sort":2800000,"flags":{},"parent":"ffYNqV8iqKcJzpnR","sorting":"a","color":"","_id":"DcN4QLnfM6KNGcAP"}
+{"name":"Nível 6","type":"Item","sort":31300000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"DgAmQ5KXvki47Xi8"}
+{"name":"Dançarina","type":"Item","sort":27800000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"DkL4NEDwo7lXkrvv"}
+{"name":"Estatísticas","type":"Item","sort":900000,"flags":{},"parent":"s0qBQ6Yrkw58MCHv","sorting":"a","color":"","_id":"DoRYnhgU3V22d0b6"}
+{"_id":"DpA9gdp2BcWGzYr9","name":"Roleta","type":"Item","sort":30300000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"name":"Garras","type":"Item","sort":21400000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"E2HhFzNW0YFHQhJx"}
+{"_id":"ELE7pHVyV3DBQeLE","name":"Gunblades","type":"Item","sort":13400000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":""}
+{"name":"Assassino","type":"Item","sort":11600000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#e21212","_id":"EZHDorfKpgKHofUb"}
+{"_id":"EmYQgUUXfhPbtiRB","name":"técnicas","type":"Item","sort":700000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"_id":"EzgJmlcgU0Z4pVqM","name":"Acessórios de Atributo","type":"Item","sort":700000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"name":"Outros","type":"Actor","sort":3300000,"flags":{},"parent":"tIuqvlTqezmW3EJI","sorting":"a","color":"","_id":"F100S0CbcCpYMvEN"}
+{"name":"Vestes","type":"Item","sort":19700000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":"","_id":"FeGOHlxitiaIKwrX"}
+{"_id":"FzQ1o9eGB2LyeT33","name":"Grupo","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#5a25cb"}
+{"_id":"GAs47f0B85VNBhjI","name":"Personagens","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#2b1480"}
+{"name":"Eorzeanos","type":"Item","sort":18400000,"flags":{},"parent":"2GSww6zgZFRy5apB","sorting":"a","color":"","_id":"GDndpkzw641qkMLB"}
+{"name":"Summons","type":"Item","sort":14600000,"flags":{},"parent":"KnR9oOAeWheMSTDL","sorting":"a","color":"","_id":"GLurlZgAarM97ab8"}
+{"_id":"GSnMEvHVLHUWZUon","name":"Perícias","type":"Item","sort":200000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"_id":"GdEnnNuGb06CzD3V","name":"invenções","type":"Item","sort":8550000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"name":"Nível 1","type":"Item","sort":27000000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"GrMmayQxRqxKk1LM"}
+{"name":"Armas de Haste","type":"Item","sort":20600000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"GyOfdYMYR6WVYmzi"}
+{"name":"Invenções","type":"Item","sort":33000000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"","_id":"GzM8NxVBiUwvtRKb"}
+{"_id":"H5IR0TmgayBSsLf5","name":"Mago Branco","type":"Item","sort":400000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"H93U8Fx7VqlaRgo6","name":"Citens","type":"Item","sort":150000,"flags":{},"parent":null,"sorting":"a","color":"#d1ca05"}
+{"_id":"HBoQijfdbuCUeRl9","name":"Globos Estelares e Instrumentos","type":"Item","sort":20400000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":""}
+{"name":"Uldah","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"HWmZVSoziqCrWUCy"}
+{"name":"Habilidades Raciais","type":"Item","sort":18300000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":"","_id":"HbxmFSGuD331Y7sM"}
+{"_id":"HjRJLLkQ8zzmAuR0","name":"cheetTabs","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#10b731"}
+{"_id":"HxeAmqltgkRHtknT","name":"Escudos Pesados","type":"Item","sort":19900000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"_id":"IacHeH4ITRbSc8IK","name":"Bushido","type":"Item","sort":13800000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"name":"Tier 8","type":"Item","sort":33900000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"IfORKklb74eFnqKu"}
+{"_id":"Ig3hwXQEoNaS7MSC","name":"Armas de Arremesso","type":"Item","sort":2400000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#851e55"}
+{"_id":"IrVE7PZ5SPwvuDng","name":"Itens de Recuperação","type":"Item","sort":1200000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#1a3d2e"}
+{"name":"Behemoth","type":"Actor","sort":2000000,"flags":{},"parent":"ffYNqV8iqKcJzpnR","sorting":"a","color":"","_id":"Jr4syf6QXmwtlEU2"}
+{"_id":"JrpY1QSepkBTTqGE","name":"painéis","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#b7580b"}
+{"name":"Summons","type":"Item","sort":24900000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"Jsyq9iV19ov5x45l"}
+{"name":"Flechas","type":"Item","sort":25100000,"flags":{},"parent":"eAFK0H3pxAnNy9LY","sorting":"a","color":"","_id":"K54HbR6GrB4S9M0M"}
+{"_id":"KHdCZKY31S0i4TDz","name":"Habilidades de Vantagem","type":"Item","sort":2500000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#b81919"}
+{"name":"Rifles","type":"Item","sort":21900000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"KaPhKQHwhPmrquuL"}
+{"name":"Ultear","type":"Item","sort":15400000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"KcN9p84TOzV6vXjZ"}
+{"name":"Tipo","type":"Item","sort":17400000,"flags":{},"parent":"KnR9oOAeWheMSTDL","sorting":"a","color":"","_id":"KkobxVoUGpQ0A6SX"}
+{"_id":"KnR9oOAeWheMSTDL","name":"Categorias NPCS","type":"Item","sort":1300000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#c78b0a"}
+{"name":"Dardos","type":"Item","sort":25500000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"KtGaZh3IfRRPi1Ue"}
+{"_id":"Ky0QrLLArZEGQtYG","name":"Até 50 MP","type":"Item","sort":32600000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":""}
+{"name":"Mestre das Espadas","type":"Item","sort":22900000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"L4f6pCOQlSsZ0LNh"}
+{"_id":"LJFXpn3NQnSrhgb9","name":"Cloudkin","type":"Item","sort":24100000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":""}
+{"name":"Ishmaru","type":"Item","sort":14400000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"LOoWsZslKWxsNJZC"}
+{"name":"Acessórios de Status","type":"Item","sort":19300000,"flags":{},"parent":"LvwX3ezbtEcJrVYW","sorting":"a","color":"","_id":"LY1DH2v8lg2DjGW7"}
+{"name":"Resistências","type":"Item","sort":1000000,"flags":{},"parent":"s0qBQ6Yrkw58MCHv","sorting":"a","color":"","_id":"LlXqvpbvjlecX7nz"}
+{"_id":"LvwX3ezbtEcJrVYW","name":"Acessóriso","type":"Item","sort":800000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#15e1e5"}
+{"name":"Quilong","type":"Item","sort":14200000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"LxunKmpJdzEuznzP"}
+{"name":"Roletas","type":"RollTable","sort":100000,"flags":{},"parent":"4IbJfMWrCGJXOtKN","sorting":"a","color":"","_id":"M00aGmhl9dfmFr7c"}
+{"name":"Linha Suprema","type":"Item","sort":27500000,"flags":{},"parent":"5YMaONqTj1DN6zYj","sorting":"a","color":"","_id":"M6YSPGu8Dp17X1do"}
+{"_id":"MFIZSQA1ARYML8IO","name":"Tanks","type":"Actor","sort":100000,"flags":{},"parent":"GAs47f0B85VNBhjI","sorting":"a","color":"#1333b4"}
+{"_id":"MHAN70hVWUQJBQgl","name":"Limit Break","type":"Item","sort":1900000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#fe7b01"}
+{"_id":"MRTQKJWAGTwntBkB","name":"Habilidades","type":"Item","sort":3300000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"name":"Nível 4","type":"Item","sort":30500000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"MVcJ4rYyrORgqcLz"}
+{"name":"Nível 7","type":"Item","sort":32000000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"Mm6dhLUjWv1iQ4Au"}
+{"name":"Imperiais","type":"Actor","sort":1700000,"flags":{},"parent":"tIuqvlTqezmW3EJI","sorting":"a","color":"","_id":"Mm8tcDCj5X0fvUgx"}
+{"_id":"N34kp5x4gv3IuphZ","name":"Kits","type":"Item","sort":200000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"name":"Adeptos","type":"Item","sort":17700000,"flags":{},"parent":"AR99Uew1lEPxpr1m","sorting":"a","color":"","_id":"N4h63mjwUlid2YtQ"}
+{"name":"Perícias","type":"Item","sort":8500000,"flags":{},"parent":"57ZncXaMJS46g9pD","sorting":"a","color":"","_id":"NQo7Btuj9KabZQIh"}
+{"name":"Orobon","type":"Actor","sort":3000000,"flags":{},"parent":"rwLtePcSOiwLaM94","sorting":"a","color":"","_id":"NSLJKwp72gBR9QsE"}
+{"name":"Acessórios Mágicos","type":"Item","sort":19000000,"flags":{},"parent":"LvwX3ezbtEcJrVYW","sorting":"a","color":"","_id":"NkfqXcXpxGQR0t7g"}
+{"_id":"OLICJJGNeBOYTLXG","name":"Astrólogo","type":"Item","sort":1100000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"OW1qbq5HHTPfGJVv","name":"Equipamentos","type":"Item","sort":700000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"name":"Nível 3","type":"Item","sort":30400000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"OaPkYvaUK7nOxxOK"}
+{"name":"Shurikens","type":"Item","sort":25700000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"OgeIPhDsEJWofFkb"}
+{"name":"Até 27 MP","type":"Item","sort":32400000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"OhOlXSHFcA7I7BwZ"}
+{"_id":"On62zBYDBq1aNfZO","name":"Habilidades de Equipamentos","type":"Item","sort":600000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#1d1aa8"}
+{"name":"Arcos","type":"Item","sort":20500000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"OneWnEohyHupiQCs"}
+{"_id":"OqjO8wFwDYAWTM1E","name":"Danças","type":"Item","sort":13900000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"_id":"OzYGvtLe26hf7ldz","name":"Aliados temporários","type":"Actor","sort":1000000,"flags":{},"parent":"u9g7QkBDNgAEnrQF","sorting":"a","color":"#fbad04"}
+{"name":"Cavaleiro","type":"Item","sort":22400000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"PR15I3dGnrT0qPMN"}
+{"name":"Gargoyle","type":"Actor","sort":2600000,"flags":{},"parent":"7QrZIdnyPTuCk5RU","sorting":"a","color":"","_id":"PeY3jYDNVbcowmaR"}
+{"name":"Atributo","type":"Item","sort":800000,"flags":{},"parent":"s0qBQ6Yrkw58MCHv","sorting":"a","color":"","_id":"PzrhkUP50c0oz7kY"}
+{"name":"Toxin","type":"Item","sort":15600000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"Q23lAidoG4JBUuZM"}
+{"name":"Bastões","type":"Item","sort":21600000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"Q6ffd5AwM0drSDk4"}
+{"name":"Lominsa","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"QAA7oe5GuidHOu5S"}
+{"name":"Nível 8","type":"Item","sort":30900000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"QWZVCAhTeBQPa9yn"}
+{"_id":"QixaTEWGw2BIWdaV","name":"Grau 4","type":"Item","sort":29700000,"flags":{},"parent":"3RmAoUTvSpsLsFMU","sorting":"a","color":""}
+{"name":"loots","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"RO1Ts59sQwOZHBC9"}
+{"name":"Facas Ninjas","type":"Item","sort":21200000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"RPEoMzTL5vpOie03"}
+{"name":"Othardianos","type":"Item","sort":18500000,"flags":{},"parent":"2GSww6zgZFRy5apB","sorting":"a","color":"","_id":"RjCSVkc1rt46gwhT"}
+{"name":"Facas","type":"Item","sort":21100000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"RjK5a9uVCqCeoA86"}
+{"name":"Destruidor","type":"Item","sort":29100000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"S0Xuau2XVyzAjMte"}
+{"name":"Comuns","type":"Actor","sort":1800000,"flags":{},"parent":"tIuqvlTqezmW3EJI","sorting":"a","color":"","_id":"SDnBjaloOaCvKDQC"}
+{"name":"Magias","type":"Item","sort":8700000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"SfNM1sBeUvtrtAvs"}
+{"name":"Time","type":"Item","sort":15800000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"SjNQL6hA156scHnE"}
+{"name":"Acessórios de Atributo","type":"Item","sort":19200000,"flags":{},"parent":"LvwX3ezbtEcJrVYW","sorting":"a","color":"","_id":"SwznWh1xhWJAdo3b"}
+{"_id":"SyeocuGoatOp9ffX","name":"Background","type":"Item","sort":2300000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":""}
+{"_id":"T5zNTEd3rnvwxdDb","name":"Acessórios Mágicos","type":"Item","sort":900000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"name":"Voidsent","type":"Item","sort":24300000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"THfKOz2Qzpp06UBl"}
+{"name":"Tier 4","type":"Item","sort":33500000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"TU0ZlVRa88GQ4HQw"}
+{"_id":"TcjgsH2QsNl0lAh2","name":"Impulsionadores de Estatísticas","type":"Item","sort":1000000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"_id":"TswyJFCw0cbMKToS","name":"Inventário","type":"Item","sort":500000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"_id":"Tvtj7BLFq5MsQAzA","name":"Escudos Leves","type":"Item","sort":7800000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"name":"Nível 2","type":"Item","sort":28400000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"U4BFb7HH6bOTXCLJ"}
+{"name":"Lobos","type":"Actor","sort":3200000,"flags":{},"parent":"ffYNqV8iqKcJzpnR","sorting":"a","color":"","_id":"UMYfbYD2ace8Of88"}
+{"name":"Tier 3","type":"Item","sort":33400000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"UTBPaYa26drX5eCM"}
+{"name":"Samurai","type":"Item","sort":22800000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"UegwZqxoBeOKctpW"}
+{"_id":"UkWE7PuVGF3HSM3y","name":"Gunbreaker","type":"Item","sort":100000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"Und4lcssV9mC3baF","name":"Materiais Alquimicos","type":"Item","sort":800000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"name":"Nível 4","type":"Item","sort":31100000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"UpFr1zYiRtazTquL"}
+{"name":"Efeito de Status","type":"Item","sort":9400000,"flags":{},"parent":"wymBVIhRSM4QtwNe","sorting":"a","color":"","_id":"VcaE3BznHwI3itR9"}
+{"name":"Grau 1","type":"Item","sort":29500000,"flags":{},"parent":"3RmAoUTvSpsLsFMU","sorting":"a","color":"","_id":"Vcsz3ZOiNq0k3Zc5"}
+{"_id":"VgKrfgTfOjGEdcvt","name":"Outros Itens","type":"Item","sort":2000000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#846262"}
+{"_id":"Vh0ZHaqwTnwyb3AD","name":"Mago Negro","type":"Item","sort":300000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Combatente","type":"Item","sort":29000000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"VunTktm6Yat7zLDw"}
+{"name":"Até 139 MP","type":"Item","sort":32800000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"W1WmJhuNs8TqAhFC"}
+{"name":"Rolagens de Equipamentos","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"W1rlP2INwJo2YHdL"}
+{"_id":"W5pMw4sOlhQdNJiW","name":"Transform","type":"Item","sort":15550000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":""}
+{"name":"Seifer","type":"Item","sort":16700000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"WBdxg1VTVZlY7GR5"}
+{"_id":"WJOaqvyadvq9NawA","name":"Magia Azul","type":"Item","sort":1800000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#1d0eec"}
+{"name":"Espadas","type":"Item","sort":20000000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"WPIkdRLQf4zNgiYv"}
+{"name":"Nível 6","type":"Item","sort":30700000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"WTguOZ2CQXF3xvLX"}
+{"name":"Nível 7","type":"Item","sort":30800000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"WZjzLmaDy8o17ITy"}
+{"name":"Magos","type":"Item","sort":17900000,"flags":{},"parent":"AR99Uew1lEPxpr1m","sorting":"a","color":"","_id":"WcwgkOnYtTwlYyTb"}
+{"name":"Adeptos","type":"Item","sort":11500000,"flags":{},"parent":"7lFeWjJjC8Tgn5ft","sorting":"a","color":"#682c5e","_id":"WgMrv4MJMTYlUMIp"}
+{"_id":"WnheBNh4SzDTBAGY","name":"Lominsa","type":"Actor","sort":900000,"flags":{},"parent":"u9g7QkBDNgAEnrQF","sorting":"a","color":"#969292"}
+{"_id":"WoQUD7wNLIGWIQpe","name":"Habilidades de Paradigma","type":"Item","sort":2600000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#0eb440"}
+{"_id":"XAmgggqxQMmfJfcG","name":"habildiades","type":"Item","sort":300000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"_id":"XN9pw3J3QJCHDsQy","name":"Desvantagens","type":"Item","sort":100000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":""}
+{"name":"estatistias","type":"Item","sort":2600000,"flags":{},"parent":"z49XNyYPffF9Y4y6","sorting":"a","color":"","_id":"XftDlZmqavhVeVF0"}
+{"_id":"XpEdnnz9eWEkU5cr","name":"SOS Status Positivos","type":"Item","sort":0,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":""}
+{"_id":"XrwmXgxK2FpvYdcg","name":"Habilidades de Monstros","type":"Item","sort":1000000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#e17575"}
+{"name":"Dungeons","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Y23c2jbxXob8wRO9"}
+{"name":"Estatísticas NPC","type":"Item","sort":13700000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":"","_id":"YMu4jvyPurjS54MH"}
+{"name":"Rosemary","type":"Item","sort":14500000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"YTkYe85l0Sm3WFBN"}
+{"_id":"YWoMdFleerumcBWt","name":"Ameaças","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#f65904"}
+{"name":"Lakshmi","type":"Item","sort":30200000,"flags":{},"parent":"tIzHbuflqxaTu28x","sorting":"a","color":"","_id":"YYrU08T6urhSk0b1"}
+{"name":"Barrier","type":"Item","sort":15900000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"YhuKEJfLWRyALcvc"}
+{"name":"Tier 2","type":"Item","sort":33300000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"YiTqgysEFLu4mrTz"}
+{"name":"Aleke","type":"Item","sort":15200000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"YoKgiXy3SlXvBmla"}
+{"name":"Grau 5","type":"Item","sort":29900000,"flags":{},"parent":"3RmAoUTvSpsLsFMU","sorting":"a","color":"","_id":"Z7mAdvNjq6gOFAfm"}
+{"name":"Strengthen","type":"Item","sort":16200000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"ZFqvv4lckU96NZWL"}
+{"_id":"ZLuCgpbyz8WQ8Ud9","name":"Status Ataque / Toque","type":"Item","sort":50000,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":""}
+{"_id":"Ze46hmVBoyZHcfVU","name":"Auto Status Negativos","type":"Item","sort":62500,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":""}
+{"name":"Magos","type":"Item","sort":18800000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"Zg6ltN4cekvOP4tf"}
+{"_id":"Zmvsb1Ix76BG7tEC","name":"ladina","type":"Item","sort":600000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"name":"Mystify","type":"Item","sort":16000000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"ZnIzzDz9OffVdiaI"}
+{"_id":"aMoGSMfMMrawmRe7","name":"Summons","type":"Actor","sort":0,"flags":{},"parent":"GAs47f0B85VNBhjI","sorting":"a","color":"#d2d520"}
+{"name":"iformações","type":"Item","sort":1700000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"aP2S3ugexQmZVbm4"}
+{"_id":"amcOWb8osYAa6ISK","name":"Ninja","type":"Item","sort":600000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Weak","type":"Item","sort":15700000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"asJokAKE6I8aeXzR"}
+{"name":"Equipamentos","type":"Item","sort":5000000,"flags":{},"parent":"z49XNyYPffF9Y4y6","sorting":"a","color":"","_id":"auUq6BASqxSitJnH"}
+{"_id":"bmRvxl9xIRluq3LQ","name":"Grau 3","type":"Item","sort":29800000,"flags":{},"parent":"3RmAoUTvSpsLsFMU","sorting":"a","color":""}
+{"name":"Informações","type":"Item","sort":1100000,"flags":{},"parent":"s0qBQ6Yrkw58MCHv","sorting":"a","color":"","_id":"bnzPTi6L4qm3bllA"}
+{"name":"Seedkin","type":"Item","sort":24400000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"bp5ztDyTkCeOmeEH"}
+{"name":"Itens de Suporte","type":"Item","sort":25300000,"flags":{},"parent":"Ig3hwXQEoNaS7MSC","sorting":"a","color":"","_id":"c8IBu4ov0yBpry0i"}
+{"name":"Nível 5","type":"Item","sort":30600000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"cFkdT1O6vAqyQaUB"}
+{"_id":"cIn2z0OeD4HAc7Ck","name":"Engenheiro","type":"Item","sort":900000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Atirador","type":"Item","sort":12100000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#988c06","_id":"cXcW8VlvAyY9OTTz"}
+{"_id":"cr65KE46C4nGLRZO","name":"Tecidos","type":"Item","sort":500000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"_id":"csKRfA1DDC8EsQFl","name":"SOS Status Negativos","type":"Item","sort":100000,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":""}
+{"name":"Nível 2","type":"Item","sort":28200000,"flags":{},"parent":"2N3MO0fRr6MU0GA8","sorting":"a","color":"","_id":"d0utfSTxFm992FJP"}
+{"name":"Linha Elemental","type":"Item","sort":27400000,"flags":{},"parent":"5YMaONqTj1DN6zYj","sorting":"a","color":"","_id":"d6NRivC5bmEKADRA"}
+{"name":"Tier 1","type":"Item","sort":33200000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"dFcRRw2xFeWPbAx3"}
+{"name":"Escudos","type":"Item","sort":22100000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"dfsVGeUgjNCrXv9N"}
+{"name":"Expert","type":"Item","sort":18000000,"flags":{},"parent":"AR99Uew1lEPxpr1m","sorting":"a","color":"","_id":"diUrBWNDEjM31EBZ"}
+{"name":"Guardião","type":"Item","sort":11800000,"flags":{},"parent":"kZl9doYBptfjr5b7","sorting":"a","color":"#0e46af","_id":"dlw3KG2AsNtljpLw"}
+{"name":"Luvas","type":"Item","sort":20300000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"dtOJqHFiAMR1bjHC"}
+{"name":"Bastardas","type":"Item","sort":21300000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"dxBxXecBrHl5JKaV"}
+{"_id":"e69MEmDlGn7nXRzg","name":"Peculiaridades","type":"Item","sort":-200000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":""}
+{"_id":"eAFK0H3pxAnNy9LY","name":"Munições","type":"Item","sort":2100000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":""}
+{"_id":"eZpo09WXAdpeVd3R","name":"Avekin","type":"Actor","sort":1400000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#199444"}
+{"name":"Equipamentos","type":"Item","sort":5200000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"esPijiCjupTo3LU5"}
+{"name":"ATRIBUTO","type":"Item","sort":200000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":"","_id":"et0bptaDjGxiqOHl"}
+{"_id":"f523my3PA5rQPEPd","name":"140 MP +","type":"Item","sort":32900000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":""}
+{"_id":"fP74hPLvSbQzowEI","name":"Mago Azul","type":"Item","sort":1000000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Beastkin","type":"Actor","sort":1300000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#6213c3","_id":"ffYNqV8iqKcJzpnR"}
+{"_id":"fn0XlVkcqzOIL4Rm","name":"Acessórios de Status","type":"Item","sort":800000,"flags":{},"parent":"esPijiCjupTo3LU5","sorting":"a","color":""}
+{"_id":"gDNfCZoZbVeY3djs","name":"Auto Status Positivos","type":"Item","sort":75000,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":""}
+{"name":"Atributos","type":"Item","sort":100000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"gGhJduD1SDfEx22Q"}
+{"name":"Habilidades","type":"Item","sort":3100000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"gJC0zcn4t6vITIZk"}
+{"name":"Seal","type":"Item","sort":16300000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"gNYnozL8gtkdejPU"}
+{"name":"Spokens","type":"Item","sort":24500000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"gNhxSXsT8LhDcQ3Q"}
+{"_id":"hIbnPWnLnl6qyfwM","name":"Expert","type":"Item","sort":11300000,"flags":{},"parent":"7lFeWjJjC8Tgn5ft","sorting":"a","color":"#918383"}
+{"_id":"hddzps8qL78wVh3N","name":"Propriedades","type":"Item","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#fb0404"}
+{"_id":"hj3kLg17nmr6DcUH","name":"Micelanios","type":"Item","sort":100000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"_id":"hr5Kj0btYyWKiJ0f","name":"selvagem","type":"Item","sort":500000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"name":"Balas","type":"Item","sort":25000000,"flags":{},"parent":"eAFK0H3pxAnNy9LY","sorting":"a","color":"","_id":"huJDW094tzadwVUK"}
+{"_id":"i6488DJazqZTKVFb","name":"DPS","type":"Actor","sort":300000,"flags":{},"parent":"GAs47f0B85VNBhjI","sorting":"a","color":"#f90126"}
+{"_id":"iOUXXXoOlv3B3VXR","name":"Guerreiro","type":"Item","sort":800000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"in64P8c9rGShqNUl","name":"Monge","type":"Item","sort":1500000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Nível 2","type":"Item","sort":28300000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"in84GQGUc51jI4uf"}
+{"_id":"j5AaEGMtu3gR7T5W","name":"Perícias","type":"Item","sort":500000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#764b86"}
+{"name":"Vilekin","type":"Item","sort":23900000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"jFwhlUHUdZ3cQ8Sr"}
+{"_id":"jPFf7YsRc1IPBR4M","name":"Habilidades de Equipamento","type":"Item","sort":5600000,"flags":{},"parent":"jVF2vROcOdSNJ8BJ","sorting":"a","color":""}
+{"name":"Pugils","type":"Actor","sort":2300000,"flags":{},"parent":"rwLtePcSOiwLaM94","sorting":"a","color":"","_id":"jUv7k0BF87UbKCib"}
+{"name":"Equipamentos","type":"Item","sort":5400000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"jVF2vROcOdSNJ8BJ"}
+{"name":"Ascian","type":"Actor","sort":2700000,"flags":{},"parent":"tIuqvlTqezmW3EJI","sorting":"a","color":"","_id":"kDcuiIEt2AJuNHiM"}
+{"name":"Acessórios de Ação","type":"Item","sort":19100000,"flags":{},"parent":"LvwX3ezbtEcJrVYW","sorting":"a","color":"","_id":"kL8RHS9UzUGQO8yg"}
+{"_id":"kZl9doYBptfjr5b7","name":"Paradigmas","type":"Item","sort":2700000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#510505"}
+{"name":"informações npc","type":"Item","sort":13800000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":"","_id":"kmizOIMPBuWeAket"}
+{"_id":"kzmaiIDfZhTmsl3S","name":"Geomancer","type":"Item","sort":1300000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"kztLVuODOoTjNCZF","name":"Braceletes","type":"Item","sort":7200000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"_id":"lK0vhct05p6U053I","name":"Companheiro Animal","type":"Item","sort":100000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":""}
+{"_id":"lMjEJAm1NKeFWpt2","name":"Magos","type":"Item","sort":11400000,"flags":{},"parent":"7lFeWjJjC8Tgn5ft","sorting":"a","color":"#35555f"}
+{"name":"Aliados","type":"Item","sort":17600000,"flags":{},"parent":"KnR9oOAeWheMSTDL","sorting":"a","color":"","_id":"lrhgYZ7SALdtpsHk"}
+{"name":"Pistolas","type":"Item","sort":22000000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"lyCs71CntZ848Ml9"}
+{"name":"Nível 5","type":"Item","sort":31200000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"m33y7BUhAwk3kaIR"}
+{"name":"habilidades","type":"Item","sort":3000000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"mKTl8lQin7v8y5OK"}
+{"name":"Limites","type":"Item","sort":3200000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":"","_id":"miSfJ0GlImvE10Sv"}
+{"name":"Até 40 MP","type":"Item","sort":32500000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"mkwWyKZwZGAHG7Ep"}
+{"name":"Tipo de Equipamento","type":"Item","sort":5700000,"flags":{},"parent":"jVF2vROcOdSNJ8BJ","sorting":"a","color":"","_id":"mqFA8YTl8lUeoEnD"}
+{"name":"Hinamore","type":"Item","sort":14300000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"nCizGMyxaRh1JJpK"}
+{"name":"Cajados","type":"Item","sort":21500000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"nDo5JdzOy8MpTKBm"}
+{"name":"Wavekin","type":"Item","sort":24200000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"nGIuWs1Q6kPegZEH"}
+{"name":"Até 10 MP","type":"Item","sort":32200000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"nKMCcEaNS1axnJvf"}
+{"name":"Nível 8","type":"Item","sort":31500000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"nMTlkTTLQBD6FOp8"}
+{"_id":"nRImAKO2TGxGv0kX","name":"Magias","type":"Item","sort":400000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"name":"Perícias","type":"Item","sort":8400000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"nSgDsz7oVoaEVrJo"}
+{"name":"Assassino","type":"Item","sort":28800000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"nworrg2lNi6lVmC5"}
+{"name":"Linha de Efeito","type":"Item","sort":27600000,"flags":{},"parent":"5YMaONqTj1DN6zYj","sorting":"a","color":"","_id":"o3bKPMbbCmYcWWKo"}
+{"name":"Fatal","type":"Item","sort":15500000,"flags":{},"parent":"ymiBRUNlJYzqrV32","sorting":"a","color":"","_id":"oLzEhScHkVXxlijZ"}
+{"name":"Armaduras","type":"Item","sort":19800000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":"","_id":"oPHg03TyilW8Pccu"}
+{"name":"Magias","type":"Item","sort":8800000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"oSLNe2gts83hbJG6"}
+{"name":"Cavaleiro Mágico","type":"Item","sort":22700000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"oWRPTYsQtU4z5Qe7"}
+{"_id":"obohvnV0E71xhzkV","name":"Materiais Especiais","type":"Item","sort":600000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"name":"Linha de Status","type":"Item","sort":27300000,"flags":{},"parent":"5YMaONqTj1DN6zYj","sorting":"a","color":"","_id":"p7ZPjhLhc2ecODZ3"}
+{"name":"Ataques Básicos","type":"Item","sort":30000000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"p7lKGG056dBk8FXJ"}
+{"_id":"pKPJGXk2IBqnnwWq","name":"Madeiras","type":"Item","sort":400000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"_id":"pPBaDwBnL6fBW09r","name":"Mago Vermelho","type":"Item","sort":200000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"pPHDhsbM8YLHwzSI","name":"Golens","type":"Actor","sort":100000,"flags":{},"parent":"twZhIPYpGLWHyVUU","sorting":"a","color":""}
+{"name":"Tier 5","type":"Item","sort":33600000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"pfVVCbuEJLqBq9nA"}
+{"_id":"pmGRKYU7CvO56yPY","name":"Gemas","type":"Item","sort":700000,"flags":{},"parent":"VgKrfgTfOjGEdcvt","sorting":"a","color":""}
+{"name":"Ocultas","type":"Item","sort":9100000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"qN5XJTWZ5nadOe6t"}
+{"name":"Guerreiros","type":"Item","sort":17800000,"flags":{},"parent":"AR99Uew1lEPxpr1m","sorting":"a","color":"","_id":"qT8Qbq0xZF8ydhfI"}
+{"name":"Soulkin","type":"Item","sort":24000000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"qf0P0ufU518D9X87"}
+{"name":"Inventário","type":"Item","sort":7400000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"qpDT3dIqWbgc6TvD"}
+{"name":"Cavaleiro Negro","type":"Item","sort":22500000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"r0QYkqPTMdN1ZDgh"}
+{"name":"Cavaleiro de Runas","type":"Item","sort":22600000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"r1wQeudFglxbyOO8"}
+{"name":"Vantagens Extras","type":"Item","sort":18100000,"flags":{},"parent":"SyeocuGoatOp9ffX","sorting":"a","color":"","_id":"rD2Mv9JrchqIptm8"}
+{"name":"Nível 1","type":"Item","sort":27100000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"rDZpx0Q8c8N7Qxur"}
+{"name":"Manoplas","type":"Item","sort":19400000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":"","_id":"rc5FGuzcN2jIN8xT"}
+{"_id":"rwLtePcSOiwLaM94","name":"Wavekin","type":"Actor","sort":2100000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#04e1f1"}
+{"_id":"s0qBQ6Yrkw58MCHv","name":"Estatisticas","type":"Item","sort":100000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"name":"Mago do Tempo","type":"Item","sort":23600000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"s9NQOHasWAFoZ9Vn"}
+{"name":"Rengar","type":"Item","sort":15300000,"flags":{},"parent":"MHAN70hVWUQJBQgl","sorting":"a","color":"","_id":"sYdapMGbZV4Y2KyG"}
+{"name":"Tier 7","type":"Item","sort":33800000,"flags":{},"parent":"IrVE7PZ5SPwvuDng","sorting":"a","color":"","_id":"saZNz7wqc4Ht8rVt"}
+{"name":"Sábio","type":"Item","sort":23300000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"smdbaUomSpnyw4DU"}
+{"name":"Nível 7","type":"Item","sort":31400000,"flags":{},"parent":"CwjGbOMyYywcnWk8","sorting":"a","color":"","_id":"t1rGyS83kSzG8mRE"}
+{"name":"Até 119 MP","type":"Item","sort":32700000,"flags":{},"parent":"WJOaqvyadvq9NawA","sorting":"a","color":"","_id":"t5vaTLUtWJzklUR0"}
+{"name":"Armas Naturais","type":"Item","sort":22200000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"t97pgbdf1SZU9N5i"}
+{"_id":"tIuqvlTqezmW3EJI","name":"Spokens","type":"Actor","sort":1100000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#d01616"}
+{"_id":"tIzHbuflqxaTu28x","name":"Habilidades de Summons","type":"Item","sort":900000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#7e80c4"}
+{"_id":"tOECRohxGYzuamLE","name":"Armas","type":"Item","sort":400000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":"#782b3e"}
+{"_id":"tcYpPUU7H7qvZWoz","name":"Esgrimista","type":"Item","sort":1400000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"tf7am3nfICNl8pTj","name":"Healers","type":"Actor","sort":200000,"flags":{},"parent":"GAs47f0B85VNBhjI","sorting":"a","color":"#2ec70f"}
+{"_id":"twZhIPYpGLWHyVUU","name":"Soulkin","type":"Actor","sort":1200000,"flags":{},"parent":"YWoMdFleerumcBWt","sorting":"a","color":"#8a10b7"}
+{"_id":"tzncuvW7P2wj0STc","name":"Chapéu","type":"Item","sort":7100000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"_id":"u5N4ftIiTV4w0Xi8","name":"geral","type":"Item","sort":400000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"name":"Nível 3","type":"Item","sort":31600000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"u5PtAbV63ycHZPUK"}
+{"name":"Estatisticas","type":"Item","sort":1600000,"flags":{},"parent":"FzQ1o9eGB2LyeT33","sorting":"a","color":"","_id":"u5fSYPw6xu333sej"}
+{"name":"Elmos","type":"Item","sort":19600000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":"","_id":"u7ktmsKe26n9GCEn"}
+{"name":"NPCs","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"u9g7QkBDNgAEnrQF"}
+{"_id":"uEalsfnxCg9g1fKq","name":"Summoner","type":"Item","sort":500000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"_id":"uHBewNiOKHaqiUqT","name":"Ladrão","type":"Item","sort":1200000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Apostador","type":"Item","sort":23000000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"uk6ufowOhne4UUUE"}
+{"_id":"utPg7UGuCFX8nP2h","name":"Canções","type":"Item","sort":13700000,"flags":{},"parent":"mKTl8lQin7v8y5OK","sorting":"a","color":""}
+{"_id":"vVxAKHIomitMIImx","name":"Armas","type":"Item","sort":100000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"name":"Elemento Aumento","type":"Item","sort":26800000,"flags":{},"parent":"On62zBYDBq1aNfZO","sorting":"a","color":"","_id":"vmIV3MBHjjiOy6n6"}
+{"name":"Setas","type":"Item","sort":25200000,"flags":{},"parent":"eAFK0H3pxAnNy9LY","sorting":"a","color":"","_id":"wAOH9Uety1a3FO7F"}
+{"name":"Combate","type":"Item","sort":9300000,"flags":{},"parent":"hddzps8qL78wVh3N","sorting":"a","color":"","_id":"wymBVIhRSM4QtwNe"}
+{"name":"Rolagens de Itens","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"x3BPs1LrwsC9kduu"}
+{"name":"Scalekin","type":"Item","sort":24800000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"x79WfRrg5snibHUR"}
+{"_id":"x9hbfqh7DESdcDaO","name":"Alquimista","type":"Item","sort":27900000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":""}
+{"name":"Mimico","type":"Item","sort":23200000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"xQBi59e77RNEIktD"}
+{"_id":"xRdd9RGVMR072TK5","name":"Combate","type":"Item","sort":800000,"flags":{},"parent":"JrpY1QSepkBTTqGE","sorting":"a","color":""}
+{"_id":"xZGW2vafq7mqoG85","name":"Robes","type":"Item","sort":7000000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"_id":"y60klHieQO0ZQxlO","name":"Artísticas","type":"Item","sort":200000,"flags":{},"parent":"j5AaEGMtu3gR7T5W","sorting":"a","color":""}
+{"_id":"yOFwJxxACS0sJNUh","name":"Caneleiras Leves","type":"Item","sort":7300000,"flags":{},"parent":"BSFbPFbifs3HtLWq","sorting":"a","color":""}
+{"name":"Ashkin","type":"Item","sort":24600000,"flags":{},"parent":"XrwmXgxK2FpvYdcg","sorting":"a","color":"","_id":"yP38wNNnr91vUIlo"}
+{"_id":"ymiBRUNlJYzqrV32","name":"Condições de Status","type":"Item","sort":1100000,"flags":{},"parent":"H93U8Fx7VqlaRgo6","sorting":"a","color":""}
+{"name":"Ameaças","type":"Item","sort":14700000,"flags":{},"parent":"KnR9oOAeWheMSTDL","sorting":"a","color":"","_id":"ysl5x2xiEWKlCjIc"}
+{"_id":"z49XNyYPffF9Y4y6","name":"Multipanel","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#a04646"}
+{"name":"Nível 6","type":"Item","sort":31900000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"z4IPNGHayow1q6Yc"}
+{"name":"Boomerangs","type":"Item","sort":21800000,"flags":{},"parent":"tOECRohxGYzuamLE","sorting":"a","color":"","_id":"zAUGwWT39jeHjMI7"}
+{"name":"Seifer","type":"Item","sort":33100000,"flags":{},"parent":"GzM8NxVBiUwvtRKb","sorting":"a","color":"","_id":"zEMuMtvTmTFCfHlb"}
+{"name":"Shell","type":"Actor","sort":2900000,"flags":{},"parent":"rwLtePcSOiwLaM94","sorting":"a","color":"","_id":"zVWkUZhXApXzwjcf"}
+{"name":"Médico","type":"Item","sort":29300000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"zY5UTV2sJU94nuXK"}
+{"name":"Dragoon","type":"Item","sort":23700000,"flags":{},"parent":"90pUhM2undbFAId7","sorting":"a","color":"","_id":"zjSQs2ZBcUUm6Ujw"}
+{"_id":"zkFp2tvcaKM5lb4D","name":"INFORMAÇÕES","type":"Item","sort":400000,"flags":{},"parent":"gGhJduD1SDfEx22Q","sorting":"a","color":""}
+{"name":"Guardião","type":"Item","sort":29200000,"flags":{},"parent":"WoQUD7wNLIGWIQpe","sorting":"a","color":"","_id":"zvbidrozouXBny4v"}
+{"name":"Nível 4","type":"Item","sort":31700000,"flags":{},"parent":"Aldeak4scByVbczn","sorting":"a","color":"","_id":"zzTLhnoRkGp56iuC"}

@@ -1,0 +1,455 @@
+{
+  "name": "ffxivrpg",
+  "title": "Final Fantasy XIV",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Pdf",
+      "entity": "JournalEntry",
+      "name": "pdf",
+      "path": "packs/pdf.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\pdf.db"
+    },
+    {
+      "label": "Magias Negras",
+      "entity": "Macro",
+      "name": "magias-negras",
+      "path": "packs/magias-negras.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\magias-negras.db"
+    },
+    {
+      "label": "Magias Brancas",
+      "entity": "Macro",
+      "name": "magias-brancas",
+      "path": "packs/magias-brancas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\magias-brancas.db"
+    },
+    {
+      "label": "Magias do Tempo",
+      "entity": "Macro",
+      "name": "magias-do-tempo",
+      "path": "packs/magias-do-tempo.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\magias-do-tempo.db"
+    },
+    {
+      "label": "Magias Azuis",
+      "entity": "Macro",
+      "name": "magias-azuis",
+      "path": "packs/magias-azuis.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\magias-azuis.db"
+    },
+    {
+      "label": "Encantamento de Lâminas",
+      "entity": "Macro",
+      "name": "encantamento-de-laminas",
+      "path": "packs/encantamento-de-laminas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\encantamento-de-laminas.db"
+    },
+    {
+      "label": "Macros Base",
+      "entity": "Macro",
+      "name": "macros-base",
+      "path": "packs/macros-base.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\macros-base.db"
+    },
+    {
+      "label": "Bushido",
+      "entity": "Macro",
+      "name": "bushido",
+      "path": "packs/bushido.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\bushido.db"
+    },
+    {
+      "label": "Danças",
+      "entity": "Macro",
+      "name": "dancas",
+      "path": "packs/dancas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\dancas.db"
+    },
+    {
+      "label": "Geomancia",
+      "entity": "Macro",
+      "name": "geomancia",
+      "path": "packs/geomancia.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\geomancia.db"
+    },
+    {
+      "label": "Atirador",
+      "entity": "Macro",
+      "name": "atirador",
+      "path": "packs/atirador.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\atirador.db"
+    },
+    {
+      "label": "Arte da Guerra",
+      "entity": "Macro",
+      "name": "arte-da-guerra",
+      "path": "packs/arte-da-guerra.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\arte-da-guerra.db"
+    },
+    {
+      "label": "Arte dos Dragões",
+      "entity": "Macro",
+      "name": "arte-dos-dragoes",
+      "path": "packs/arte-dos-dragoes.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\arte-dos-dragoes.db"
+    },
+    {
+      "label": "Esgrima",
+      "entity": "Macro",
+      "name": "esgrima",
+      "path": "packs/esgrima.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\esgrima.db"
+    },
+    {
+      "label": "Habilidade de Batalha",
+      "entity": "Macro",
+      "name": "habilidade-de-batalha",
+      "path": "packs/habilidade-de-batalha.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\habilidade-de-batalha.db"
+    },
+    {
+      "label": "Técnicas de Espadas",
+      "entity": "Macro",
+      "name": "tecnicas-de-espadas",
+      "path": "packs/tecnicas-de-espadas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\tecnicas-de-espadas.db"
+    },
+    {
+      "label": "Artes Marciais",
+      "entity": "Macro",
+      "name": "artes-marciais",
+      "path": "packs/artes-marciais.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\artes-marciais.db"
+    },
+    {
+      "label": "Técnicas de Gunblade",
+      "entity": "Macro",
+      "name": "tecnicas-de-gunblade",
+      "path": "packs/tecnicas-de-gunblade.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\tecnicas-de-gunblade.db"
+    },
+    {
+      "label": "Summoner",
+      "entity": "Macro",
+      "name": "summoner",
+      "path": "packs/summoner.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\summoner.db"
+    },
+    {
+      "label": "Mago Negro",
+      "entity": "Macro",
+      "name": "mago-negro",
+      "path": "packs/mago-negro.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\mago-negro.db"
+    },
+    {
+      "label": "Mago Branco",
+      "entity": "Macro",
+      "name": "mago-branco",
+      "path": "packs/mago-branco.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\mago-branco.db"
+    },
+    {
+      "label": "Atromância",
+      "entity": "Macro",
+      "name": "atromancia",
+      "path": "packs/atromancia.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\atromancia.db"
+    },
+    {
+      "label": "Espada Sagrada",
+      "entity": "Macro",
+      "name": "espada-sagrada",
+      "path": "packs/espada-sagrada.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\espada-sagrada.db"
+    },
+    {
+      "label": "Ninjutsu",
+      "entity": "Macro",
+      "name": "ninjutsu",
+      "path": "packs/ninjutsu.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\ninjutsu.db"
+    },
+    {
+      "label": "Furtividade",
+      "entity": "Macro",
+      "name": "furtividade",
+      "path": "packs/furtividade.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\furtividade.db"
+    },
+    {
+      "label": "Ferramentas",
+      "entity": "Macro",
+      "name": "ferramentas",
+      "path": "packs/ferramentas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\ferramentas.db"
+    },
+    {
+      "label": "Habilidade de Coversa",
+      "entity": "Macro",
+      "name": "habilidade-de-coversa",
+      "path": "packs/habilidade-de-coversa.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\habilidade-de-coversa.db"
+    },
+    {
+      "label": "Espada Negra",
+      "entity": "Macro",
+      "name": "espada-negra",
+      "path": "packs/espada-negra.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\espada-negra.db"
+    },
+    {
+      "label": "Habilidades de Paradigma",
+      "entity": "Macro",
+      "name": "habilidades-de-paradigma",
+      "path": "packs/habilidades-de-paradigma.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\habilidades-de-paradigma.db"
+    },
+    {
+      "label": "Espada Inflexível",
+      "entity": "Macro",
+      "name": "espada-inflexivel",
+      "path": "packs/espada-inflexivel.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\espada-inflexivel.db"
+    },
+    {
+      "label": "Canção de Bardo",
+      "entity": "Macro",
+      "name": "cancao-de-bardo",
+      "path": "packs/cancao-de-bardo.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\cancao-de-bardo.db"
+    },
+    {
+      "label": "Azoth",
+      "entity": "Macro",
+      "name": "azoth",
+      "path": "packs/azoth.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\azoth.db"
+    },
+    {
+      "label": "Mímica",
+      "entity": "Macro",
+      "name": "mimica",
+      "path": "packs/mimica.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\mimica.db"
+    },
+    {
+      "label": "Roleta e Fortuna",
+      "entity": "Macro",
+      "name": "roleta-e-fortuna",
+      "path": "packs/roleta-e-fortuna.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\roleta-e-fortuna.db"
+    },
+    {
+      "label": "Magia Vermelha",
+      "entity": "Macro",
+      "name": "magia-vermelha",
+      "path": "packs/magia-vermelha.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\magia-vermelha.db"
+    },
+    {
+      "label": "Personagens",
+      "entity": "Actor",
+      "name": "personagens",
+      "path": "packs/personagens.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\personagens.db"
+    },
+    {
+      "label": "Criaturas",
+      "entity": "Actor",
+      "name": "criaturas",
+      "path": "packs/criaturas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\criaturas.db"
+    },
+    {
+      "label": "NPC's",
+      "entity": "Actor",
+      "name": "npcs",
+      "path": "packs/npcs.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\npcs.db"
+    },
+    {
+      "label": "Cenas",
+      "entity": "Scene",
+      "name": "cenas",
+      "path": "packs/cenas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\cenas.db"
+    },
+    {
+      "label": "Sistema",
+      "entity": "Item",
+      "name": "sistema",
+      "path": "packs/sistema.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\sistema.db"
+    },
+    {
+      "label": "Armas",
+      "entity": "Item",
+      "name": "armas",
+      "path": "packs/armas.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\armas.db"
+    },
+    {
+      "label": "Itens",
+      "entity": "Item",
+      "name": "itens",
+      "path": "packs/itens.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\itens.db"
+    },
+    {
+      "label": "Equipamentos",
+      "entity": "Item",
+      "name": "equipamentos",
+      "path": "packs/equipamentos.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\equipamentos.db"
+    },
+    {
+      "label": "Habilidades e Magias",
+      "entity": "Item",
+      "name": "habilidades-e-magias",
+      "path": "packs/habilidades-e-magias.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\habilidades-e-magias.db"
+    },
+    {
+      "label": "Mago Vermelho",
+      "entity": "Macro",
+      "name": "mago-vermelho",
+      "path": "packs/mago-vermelho.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\mago-vermelho.db"
+    },
+    {
+      "label": "rolltables",
+      "entity": "RollTable",
+      "name": "rolltables",
+      "path": "packs/rolltables.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\rolltables.db"
+    },
+    {
+      "label": "minhas table",
+      "entity": "RollTable",
+      "name": "minhas-table",
+      "path": "packs/minhas-table.db",
+      "system": "sandbox",
+      "package": "world",
+      "absPath": "C:\\Users\\nataniel\\AppData\\Local\\FoundryVTT\\Data\\worlds\\ffxivrpg\\packs\\minhas-table.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "Minhas%20Imagens/D2HjjjT.png",
+  "system": "sandbox",
+  "coreVersion": "0.7.10",
+  "systemVersion": "0.8.6",
+  "nextSession": "1969-12-31T23:00:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "ffxivrpg"
+}
